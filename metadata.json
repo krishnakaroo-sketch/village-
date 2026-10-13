@@ -1,0 +1,6 @@
+{
+  "name": "Gram Connect",
+  "description": "Smart Village Management Portal for community administration, citizen services, and transparent governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
